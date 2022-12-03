@@ -30,7 +30,7 @@ public class LuasSawah {
 
     double area = Height * Width;
 
-    String result = String.format("result from calculated of Area Sawah: %s", area);
+    String result = String.format("result from calculated of Area Sawah: %s" square meters, area);
     out.println(result);
     }
 }
